@@ -5,9 +5,7 @@
 <p align="center">I seem to be a verb.</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=AiSatan&amp;theme=dark&amp;hide_border=true&amp;background=00000000&amp;ring=E24B4A&amp;fire=E24B4A&amp;currStreakLabel=E24B4A&amp;currStreakNum=E24B4A&amp;sideNums=E24B4A&amp;sideLabels=8B949E&amp;dates=8B949E&amp;card_width=420" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aisatan&theme=dark&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&ring=a32d2d&fire=e24b4a&currStreakLabel=e24b4a&sideNums=c9c4bb&currStreakNum=ffffff&sideLabels=555555&dates=555555&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
