@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="color: #E24B4A; font-size: 28px;">AiSatan</span>
+  <img src="./title.svg" alt="AiSatan" />
 </div>
 
 <p align="center">
@@ -9,12 +9,7 @@
   <a href="https://www.youtube.com/channel/UCWggw4d__xkEKBwqZNNlbIA">YouTube</a>
 </p>
 
-<p>
-  <a href="https://github.com/AiSatan/node_wrangler_octane">node_wrangler_octane</a> - Modified Blender Node Wrangler add-on for Octane Render shader workflows.<br />
-  <a href="https://github.com/AiSatan/PoE2Dire">PoE2Dire</a> - Browser extension for Path of Exile patch notes with a Dota-style layout, keyboard search, and wiki-based icon lookup.<br />
-  <a href="https://github.com/AiSatan/aiexile-core">aiexile-core</a> - Go CLI for asking AI questions about Path of Exile builds using Path of Building data and local wiki lookup.<br />
-  <a href="https://github.com/AiSatan/poewiki-dataset-tools">poewiki-dataset-tools</a> - Python tools for exporting Path of Exile Wiki pages into JSONL.
-</p>
+<p align="center">I seem to be a verb.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
