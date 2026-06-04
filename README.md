@@ -2,14 +2,13 @@
   <img src="./title.svg" alt="AiSatan" />
 </div>
 
-<p align="center">
-  <a href="https://www.artstation.com/aisatan">ArtStation</a> /
-  <a href="https://www.linkedin.com/in/aisatan/">LinkedIn</a> /
-  <a href="https://huggingface.co/AiSatan">Hugging Face</a> /
-  <a href="https://www.youtube.com/channel/UCWggw4d__xkEKBwqZNNlbIA">YouTube</a>
-</p>
-
 <p align="center">I seem to be a verb.</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=AiSatan&amp;theme=dark&amp;hide_border=true&amp;background=00000000&amp;ring=E24B4A&amp;fire=E24B4A&amp;currStreakLabel=E24B4A&amp;currStreakNum=E24B4A&amp;sideNums=E24B4A&amp;sideLabels=8B949E&amp;dates=8B949E&amp;card_width=420" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
